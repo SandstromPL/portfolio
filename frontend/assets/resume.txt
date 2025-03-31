@@ -1,0 +1,34 @@
+Paritosh Lahre
+Phone: 9907104710
+Email: paritoshlahre@gmail.com
+LinkedIn: linkedin.com/in/paritosh-lahre-7a6648253
+GitHub: github.com/SandstromPL
+
+Education
+B.Tech in Computer Science and Engineering
+Indian Institute of Technology (IIT) Bhilai
+2023 - Expected Graduation: 2027
+
+Technical Skills
+- Programming Languages: C/C++, Python, Dart, JavaScript
+- Frameworks & Tools: Flutter, Firebase, Flask, Django
+- Other Skills: Docker, Gnuplot, Data Structures & Algorithms (DSA)
+
+Projects
+Skill Barter System Website
+- Developed a website for a course project enabling a skill barter system.
+- Utilized Python with Flask and Django for backend development.
+- Designed an interactive user interface for seamless skill exchange.
+
+Stress Management App
+- Built an Android application for stress assessment and management.
+- Developed using Flutter for frontend and Firebase for authentication and data management.
+- Features a quiz-based stress evaluation system and motivational feedback.
+
+Personal Projects
+- Actively working on various personal projects to enhance technical expertise.
+- GitHub Repository: github.com/SandstromPL
+
+Extracurricular Activities
+- Engaged in filmmaking, scripting, and directing short films for college events.
+- Actively involved in dramatics and stage performances.
